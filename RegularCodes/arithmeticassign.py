@@ -1,0 +1,10 @@
+x=10
+print(x)
+x=10
+y=5
+x+=y
+print(x)
+no1=10
+no2=5
+no1-=no2
+print(no1)
