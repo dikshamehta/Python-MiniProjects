@@ -1,3 +1,7 @@
+'''Given input String of combination of the lower and upper case arrange characters in such a way that all lowercase letters should come first.
+For Example: – Given string = aeiNPTvy
+Output = yaivePNT
+ '''
 s1=input("enter the String: ")
 s2=""
 s3=""

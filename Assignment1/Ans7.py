@@ -1,3 +1,7 @@
+'''Given a list iterate it and count the occurrence of each element and create a dictionary to show the count of each element
+For example: list = [10, 20, 30, 10, 20, 40, 50]
+Expected Outcome: dict = {10: 2, 20: 2, 30: 1, 40: 1, 50: 1}'''
+
 l1=[]
 d={}
 print("enter the number of element to enter")
